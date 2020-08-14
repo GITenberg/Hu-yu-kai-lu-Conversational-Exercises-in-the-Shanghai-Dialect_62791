@@ -1,0 +1,31 @@
+_repo: Hu-yu-kai-lu-Conversational-Exercises-in-the-Shanghai-Dialect_62791
+_version: 0.0.1
+alternative_title: Hu yu kai lu = Conversational Exercises in the Shanghai Dialect
+creator:
+  authors:
+  - agent_name: Rawlinson, Frank Joseph
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '52128'
+    url: http://www.gutenberg.org/2009/agents/52128
+  - agent_name: Crofoot, Jay William
+    alias: Croffot, Jay William
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '52127'
+    url: http://www.gutenberg.org/2009/agents/52127
+description: ''
+gutenberg_issued: '2020-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62791'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese language -- Dialects -- China -- Shanghai'
+- !lcc 'PL'
+- GITenberg
+title: 滬語開路 = Conversational Exercises in the Shanghai Dialect
+url: http://www.gutenberg.org/ebooks/62791
