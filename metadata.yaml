@@ -1,6 +1,9 @@
 _repo: Hu-yu-kai-lu-Conversational-Exercises-in-the-Shanghai-Dialect_62791
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Hu yu kai lu = Conversational Exercises in the Shanghai Dialect
+covers:
+- cover_type: archival
+  image_path: 62791-h/images/cover.png
 creator:
   authors:
   - agent_name: Rawlinson, Frank Joseph
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '52127'
     url: http://www.gutenberg.org/2009/agents/52127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62791#Hu-yu-kai-lu-Conversational-Exercises-in-the-Shanghai-Dialect
 gutenberg_issued: '2020-07-30'
 gutenberg_type: Text
 identifiers:
